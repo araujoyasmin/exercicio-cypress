@@ -1,0 +1,32 @@
+[
+    {
+        "nomeProduto": "Ingrid Running Jacket",
+        "tamanho": "M",
+        "cor": "Orange",
+        "quantidade": 4
+    },
+    {
+        "nomeProduto": "Aether Gym Pant",
+        "tamanho": "34",
+        "cor": "Green",
+        "quantidade": 5
+    },
+    {
+        "nomeProduto": "Eos V-Neck Hoodie",
+        "tamanho": "XS",
+        "cor": "Green",
+        "quantidade": 5
+    },
+    {
+        "nomeProduto": "Stellar Solar Jacket",
+        "tamanho": "S",
+        "cor": "Gray",
+        "quantidade": 1
+    },
+    {
+        "nomeProduto": "Helena Hooded Fleece",
+        "tamanho": "L",
+        "cor": "Yellow",
+        "quantidade": 1
+    }
+]

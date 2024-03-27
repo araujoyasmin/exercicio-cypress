@@ -1,4 +1,10 @@
 {
-  "usuario": "aluno_ebac@teste.com",
-  "senha": "teste@teste.com"
+    "usuario": "aluno_ebac@teste.com",
+    "senha": "teste@teste.com",
+    "nome": "Yasmin",
+    "sobrenome": "Araujo",
+    "endereco": "Rua teste",
+    "cidade": "rj",
+    "telefone": "21999876756"
+  
 }

@@ -31,3 +31,18 @@ Cypress.Commands.add('login', (usuario, senha) => {
     cy.get('.woocommerce-form > .button').click()
 });
 
+Cypress.Commands.add('inicial', (usuario, senha) => { 
+    cy.get('.logo-in-theme > .logo > a > .logo-img').click() 
+
+ })
+
+Cypress.Commands.add('carrinho', (usuario, senha) => { 
+    cy.get('.woocommerce-message > .button').click()
+
+ })
+
+Cypress.Commands.add('concluir', (usuario, senha) => { 
+    cy.get('.checkout-button').click()
+
+ })
+
